@@ -26,7 +26,7 @@ Graduated in February 2026
 
 **Research Student**  
 Image & Vision Computing Lab, Pukyong National University  
-Advisor: Prof. Hanhoon Park 
+Advisor: Prof. Hanhoon Park   
 Feb. 2024 – Feb. 2026  
 
 **Research Assistant**  
