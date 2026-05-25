@@ -51,7 +51,7 @@ menu:
   - title:             Profile
     url:               /profile/
   - title:             Publications
-    url:               /pulications/
+    url:               /publications/
   # - title:             About
   #   url:               /about/
 
