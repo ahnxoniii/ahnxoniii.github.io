@@ -27,6 +27,6 @@ permalink: /publications/
 ### 휠체어 사용자를 위한 스마트 쇼핑 카트 따르미
 
 **Soeun An**, Gyeongheon Kim, Heeyoung Do, Junhyeok Im, Hanhoon Park  
-*대한임베디드공학회 ICT대학생논문경진대회*, 2025.02
+*대한임베디드공학회 ICT대학생논문경진대회 논문집*, pp. 112-114, 2025.06 **[우수 논문 발표상]**
 
 [Paper](https://논문링크) / [Code](https://github.com/ahnxoniii/Kartriders_Tarumi)
