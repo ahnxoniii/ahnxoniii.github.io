@@ -4,8 +4,6 @@ title: Profile
 permalink: /profile/
 ---
 
-# Profile
-
 Hi, I’m **Soeun An**.
 
 I am a graduate student in South Korea, interested in **Computer Vision** and its related research areas.  
@@ -26,9 +24,14 @@ Graduated in February 2026
 
 ## Research Experience
 
+**Research Student**  
+Image & Vision Computing Lab, Pukyong National University 
+Feb. 2024 – Feb. 2026  
+
 **Research Assistant**  
 Computer and Information Communication Research Institute, Pusan National University  
 Mar. 2026 – Aug. 2026
+Advisor: Prof. Hanhoon Park
 
 ## Contact
 
