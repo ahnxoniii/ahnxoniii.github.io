@@ -6,6 +6,13 @@ permalink: /publications/
 
 ## 2026
 
+### 비수지적 요소 반영을 위한 얼굴 키포인트 기반 수어 생성 기법 
+
+**Soeun An**, Jinsun Park  
+*대한전자공학회 하계학술대회 논문집*, pp. ??, 2026.06 
+
+[Paper](?) / [Code](https://github.com/ahnxoniii/Sign_IDD_face)
+
 ### R2-ESRGAN: 블라인드 이미지 초해상화를 위한 ESRGAN 성능 개선
 
 **Soeun An**, Hanhoon Park  
